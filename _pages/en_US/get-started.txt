@@ -58,9 +58,8 @@ If that is the case on your device, you can view your version from Recovery / Ma
       <td style="text-align: center; font-weight: bold;"><a href="homebrew-launcher-(installer)">Homebrew Launcher (Installer)</a></td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">3.0.1</td>
-      <td style="text-align: center; font-weight: bold;">5.0.2</td>
-      <td style="text-align: center; font-weight: bold;">Wait for CFW -- <a href="blocking-updates">Blocking Updates</a></td>
+      <td style="text-align: center; font-weight: bold;">ALL VERSIONS<br></td>
+      <td style="text-align: center; font-weight: bold;"><a href="custom-firmware-(atmosphere)">Custom Firmware (Atmosphere)</a></td>
     </tr>
   </tbody>
 </table>
